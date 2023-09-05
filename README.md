@@ -1,6 +1,6 @@
 <!-- Introduction Section -->
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/gorilla-black-background-closeup-yellow-lighting-jungle-zoo-strength-screams-leader-king-growl-dangerous-fangs-hunter-monkey-muscular-wild-artistic-concept-vector-illustration_748571-707.jpg?w=1060" style="max-width: 100%;">
+  <img src="https://img.freepik.com/free-vector/task-concept-illustration_114360-3578.jpg?size=626&ext=jpg&ga=GA1.1.1746561452.1693936876&semt=sph" style="max-width: 100%;">
 </p>
 
 
