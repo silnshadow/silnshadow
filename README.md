@@ -1,29 +1,43 @@
-# 👋 Hi, I'm @silnshadow
+<!-- Introduction Section -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/30694084?v=4" width="200" height="200">
+</p>
 
-## 👀 About Me
-I'm passionate about the intersection of Augmented Reality (AR) and Artificial Intelligence (AI). I love building innovative solutions that blend the virtual and real worlds to create unique user experiences.
+# Hi there, I'm Silentshadow! 👋
 
-## 💼 My Interests
-I'm currently focused on working on a Traveling App project, aiming to revolutionize how people explore the world.
+I'm passionate about the intersection of Augmented Reality (AR) and Artificial Intelligence (AI), and I'm on a journey to create innovative solutions in this space. 🚀
 
-## 🚀 My Technical Stack
-Here are the technologies I work with:
+## 💼 My Technical Stack
 
-- **Web Development:** Angular, ASP.Net
-- **Mobile Development:** Flutter, Xamarin Forms, MAUI
-- **Desktop Development:** WPF, Telerik
+### Web Development
+- Frontend: ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+- Backend: ![ASP.Net](https://img.shields.io/badge/ASP.Net-%2305123.svg?style=for-the-badge&logo=.net&logoColor=white)
+- Languages: ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white), ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## 📫 Connect With Me
-Feel free to reach out to me through these channels:
+### Mobile Development
+- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+- ![Xamarin](https://img.shields.io/badge/Xamarin-%230077B5.svg?style=for-the-badge&logo=xamarin&logoColor=white)
+- ![MAUI](https://img.shields.io/badge/MAUI-%2305123.svg?style=for-the-badge&logo=.net&logoColor=white)
 
-- Email: [havtohell1857@gmail.com](mailto:havtohell1857@gmail.com)
-- Email: [silentshadoworginals@gmail.com](mailto:silentshadoworginals@gmail.com)
+### Desktop Development
+- ![WPF](https://img.shields.io/badge/WPF-%2305123.svg?style=for-the-badge&logo=.net&logoColor=white)
+- ![Telerik](https://img.shields.io/badge/Telerik-%23000000.svg?style=for-the-badge&logo=telerik&logoColor=white)
 
-## 🌟 Badges
-Show your skills and achievements with badges! Here are some badges you can add to your profile:
+### Cloud
+- ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-[![Angular](https://img.shields.io/badge/Angular-Expert-red)](https://angular.io/)
-[![Flutter](https://img.shields.io/badge/Flutter-Enthusiast-blue)](https://flutter.dev/)
-[![ASP.Net](https://img.shields.io/badge/ASP.Net-Professional-green)](https://dotnet.microsoft.com/apps/aspnet)
+### Databases
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-%230075A8.svg?style=for-the-badge&logo=sql&logoColor=white)
 
-Feel free to customize your README further and add more badges or sections as you see fit. A well-structured README can make your GitHub profile stand out and showcase your skills and interests effectively.
+### DevOps
+- ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D4.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+- ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+
+## 🤝 Let's Collaborate
+I'm currently working on a Talent Recognition App project. If you're interested in collaborating or have any exciting ideas, feel free to reach out to me.
+
+📧 Email: [havtohell1857@gmail.com](mailto:havtohell1857@gmail.com) | [silentshadoworginals@gmail.com](mailto:silentshadoworginals@gmail.com)
+
+Let's build something amazing together! 🚀
