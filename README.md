@@ -1,7 +1,8 @@
 <!-- Introduction Section -->
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/gorilla-black-background-closeup-yellow-lighting-jungle-zoo-strength-screams-leader-king-growl-dangerous-fangs-hunter-monkey-muscular-wild-artistic-concept-vector-illustration_748571-707.jpg?w=1060" width="400" height="200">
+  <img src="https://img.freepik.com/premium-vector/gorilla-black-background-closeup-yellow-lighting-jungle-zoo-strength-screams-leader-king-growl-dangerous-fangs-hunter-monkey-muscular-wild-artistic-concept-vector-illustration_748571-707.jpg?w=1060" style="max-width: 100%;">
 </p>
+
 
 # Hi there, I'm Silentshadow! 👋
 
