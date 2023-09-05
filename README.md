@@ -1,6 +1,6 @@
 <!-- Introduction Section -->
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/task-concept-illustration_114360-3578.jpg?size=626&ext=jpg&ga=GA1.1.1746561452.1693936876&semt=sph" style="max-width: 100%;">
+  <img src="https://img.freepik.com/free-vector/interactive-learning-experience-abstract-concept-vector-illustration-elearning-platform-software-social-networking-online-content-homeschooling-covid2019-quarantine-abstract-metaphor_335657-5848.jpg?size=626&ext=jpg&ga=GA1.1.1746561452.1693936876&semt=sph" style="max-width: 100%;">
 </p>
 
 
